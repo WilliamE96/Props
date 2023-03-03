@@ -1,0 +1,36 @@
+.lad {
+    border-width: 10px;
+    text-align: center;
+}
+
+.span1 {
+    background-color: aquamarine;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.lang {
+    background-color: #ff8f18;
+    text-align: center;
+    border: 5px solid black;
+}
+
+.qwang {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    vertical-align: middle;
+  }
+
+.liam {
+    border: 5px solid black;
+    display: flex;
+}
+
+
+.container1 {flex: 1.6416;}
+.container2 {flex: 1.7793;}
+.container3 {flex: 1.5016;}
